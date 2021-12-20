@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Maple_Markdown online</h1>
+<h1 align="center">An open-source online real-time collaborative Markdown editor.</h1>
 <!--
 <div align="center">
 
