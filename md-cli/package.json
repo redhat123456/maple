@@ -1,0 +1,28 @@
+{
+  "name": "@Tanger/maple",
+  "version": "1.0.0",
+  "description": "✍ 一款高度简洁的 Markdown 在线编辑器：Maple：Markdown online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "md-cli": "index.js"
+  },
+  "files": [
+    "dist",
+    "public",
+    "index.js",
+    "mm.config.js",
+    "util.js"
+  ],
+  "keywords": [],
+  "author": "wll8",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "2.3.3",
+    "get-port": "5.1.1",
+    "mockm": "^1.1.25",
+    "node-fetch": "^3.1.0"
+  }
+}
