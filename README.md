@@ -17,7 +17,7 @@
 
 > 本项目基于 [md](https://github.com/doocs/md) 进行二次开发，感谢 [doocs](https://github.com/doocs) 的社区对本次开发工作的支持！
 
-Markdown 文档自动即时渲染为HTML，即使渲染，想看就看，只要你会基本的 Markdown 语法，就能做出一篇不错的HTML文档排版，并导出为pdf让你不再为快速做笔记而发愁😔。
+Markdown 文档自动即时渲染为HTML，即使渲染，想看就看，只要你会基本的 Markdown 语法，就能做出一篇不错的HTML文档排版，并导出为pdf让你不再为快速做笔记而发愁☺。
 
 ## 在线编辑器地址&预览
 ![](https://bu.dusays.com/2021/12/20/f37b0db5b2ca3.png)
