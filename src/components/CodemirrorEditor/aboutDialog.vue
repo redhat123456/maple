@@ -23,7 +23,7 @@
                     <ul class="legals">
                         <li><a class="a1" href="https://redhat123456.github.io/router_index/" target="_blank">导航</a></li>
                         <li><a class="a2" href="https://redhat123456.github.io" target="_blank">博客</a></li>
-                        <li><a class="a3" href="https://github.com/redhat123456" target="_blank">Github</a></li>
+                        <li><a class="a3" href="https://github.com/redhat123456/maple" target="_blank">项目源码</a></li>
                     </ul>    
                     <div class="line"></div>
                     <p class="copy">© 2021 - 2021 · Tanger · All Rights Reserved</p>
