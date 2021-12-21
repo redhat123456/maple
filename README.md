@@ -1,6 +1,6 @@
 <div align="center">
 
-[![doocs-md](https://cdn.jsdelivr.net/gh/doocs/md/public/assets/images/logo-2.png)](https://github.com/doocs/md)
+[![maple](./image/logo-2.png)](https://github.com/redhat123456/maple)
 
 </div>
 
@@ -22,7 +22,16 @@ Markdown 文档自动即时渲染为HTML，即使渲染，想看就看，只要�
 
 单单一个微信公众号开发就止步于此就太可惜了，我是一名大学生，经常玩数学建模比赛，用过[OverLeaf]()，也因为一些需要用过本[md](https://github.com/doocs/md)，但作为一个开发者，总会觉得自己开发出来的东西香，而且我也发觉虽然`md`好用，可是`md`这把好刀只被用在了个人`blog`上，有些人为了方便使用起`Typora`来做笔记真的不知道该笑还是哭，LaTex其实也就写论文的时候好用，`md`针对起平时的笔记和随想绰绰有余。
 
-## 功能特性
+## 技术栈+功能特性
+
+技术栈：
+
+  - element
+  - Vue2
+  - jquery库
+  - axios
+
+功能特性：
 
 -  支持自定义 CSS 样式
 -  支持 Markdown 所有基础语法
@@ -117,4 +126,4 @@ npm run start
 
 ## 感谢🎈
 
-文章的起源
+
