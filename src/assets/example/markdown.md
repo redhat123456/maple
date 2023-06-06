@@ -460,7 +460,7 @@ Markdown 的使用者：
 
 ---
 
-注意：不同的 Markdown 解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。 虽然有人想出面搞一个所谓的标准化的 Markdown，[没想到还惹怒了健在的创始人 John Gruber] (http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ )。
+注意：不同的 Markdown 解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。 虽然有人想出面搞一个所谓的标准化的 Markdown，[没想到还惹怒了健在的创始人 John Gruber] (https://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ )。
 
 ---
 
