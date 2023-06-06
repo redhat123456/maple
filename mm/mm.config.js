@@ -29,7 +29,7 @@ module.exports = util => {
         })
         form.parse(req, async (err, fields = [], files) => {
           const file = files.file[0]
-          let url = `http://127.0.0.1:${port}/public/upload/${path.parse(file.path).base}`
+          let url = `https://127.0.0.1:${port}/public/upload/${path.parse(file.path).base}`
           try {
             url = await dcloud(spaceInfo)({name: file.originalFilename, file: fs.createReadStream(file.path)})
           } catch (err) {

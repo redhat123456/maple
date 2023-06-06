@@ -32,7 +32,7 @@ function getConfig(useDefault, platform) {
   // split username/repo
   const repoUrl = customConfig.repo
     .replace(`https://${platform}.com/`, "")
-    .replace(`http://${platform}.com/`, "")
+    .replace(`https://${platform}.com/`, "")
     .replace(`${platform}.com/`, "")
     .split("/");
   return {
